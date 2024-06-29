@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+.resume-form {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.resume-form section {
+    margin-bottom: 20px;
+}
+
+.resume-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.resume-form button {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+#resume-preview {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
